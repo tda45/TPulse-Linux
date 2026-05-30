@@ -1,0 +1,9 @@
+build/
+AppDir/
+*.AppImage
+*.exe
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+TPulse Linux Setup.zip
+TPulse Linux Setup/
